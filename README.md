@@ -4,3 +4,6 @@ we will learn
 hello 
 now im using ssh 
 * ssh was hard
+* this is another change 
+* here is another change
+* apples
